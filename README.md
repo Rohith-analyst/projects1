@@ -1,17 +1,20 @@
-# projects1
+# Tableau Project
 
-# Sales Analysis Dashboard (Tableau)
+Sales dashboard using Tableau.
 
-This repository contains a Tableau workbook designed to visualize and analyze sales data across different regions and time periods.
+- KPIs (Revenue, Profit)  
+- Filters & Time Series
 
-## Project Files
+# Excel Project
 
-- Sales_Analysis.twbx`: Packaged Tableau workbook that includes dashboards, worksheets, and data extracts.
+Business KPI dashboard.
 
-Features
+- Pivot Tables & Charts  
+- Slicers & Clean Design
 
-- Region-wise sales performance
-- Time series trends
-- Key KPIs
-- Interactive filters
-- Monthly revenue comparisons
+# Python Project
+
+Retail data analysis with Python.
+
+- pandas, matplotlib, seaborn  
+- Run in Jupyter or Colab
