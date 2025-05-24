@@ -18,3 +18,12 @@ Retail data analysis with Python.
 
 - pandas, matplotlib, seaborn  
 - Run in Jupyter or Colab
+
+
+# Power BI Project
+
+Interactive business dashboard built with Power BI.
+
+- Visualizes sales, revenue, and customer data  
+- Includes filters and drill-down reports  
+- User-friendly and dynamic visuals
